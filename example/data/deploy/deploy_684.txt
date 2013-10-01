@@ -1,0 +1,1 @@
+then no EJBs have been deployed -- the server always reports the EJBs that it detects. This usually means that the deployment descriptor ejb-jar.xml is badly structured , or missing , or in the wrong directory .

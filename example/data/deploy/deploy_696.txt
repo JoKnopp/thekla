@@ -1,0 +1,1 @@
+Yes , with Continuous Access EVA Software , you now have choice on how you want to deploy EVA software applications. For example , you can deploy the software on a dedicated general purpose Windows server in the SAN. See the Continuous Access Software QuickSpecs for specific Widows OS versions that are supported .

@@ -1,0 +1,1 @@
+Virtual Deployment : With Specops Virtual Deploy managing Microsoft App-V , virtual applications become as easy as to manage any other type of software because a virtual application , or bubble , is deployed rather than as an actual package set up. Specops Virtual Deploy was a finalist for the Best of TechEd 2009 award in the virtualization category .

@@ -1,0 +1,1 @@
+So for the last couple of weeks many of our Certified Partners have been working on deploying AuthAnvil v2. We have had a few reports now of difficulties deploying the AuthAnvil database onto a SQL 2008 target from a Windows Server 2003 host , and with enough details from those installs we finally figured out what the problem is .

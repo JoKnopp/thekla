@@ -1,0 +1,1 @@
+The Tcl Dev Kit ( TDK ) provides essential tools for Tcl programmers , making it easy to create , build and deploy applications. Rapidly deploy Tcl applications to a broad range of platforms , as ready-to-run executables , starkits or starpacks. Simplify development with tools for finding and fixing bugs ,

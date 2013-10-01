@@ -1,0 +1,1 @@
+From the Software node click the link for Create and deploy a new software package. You 'll be asked to provide a name and description of the software to be installed as well as the location of its .MSI file. SCE will automatically interrogate the .MSI file for its silent installation information .

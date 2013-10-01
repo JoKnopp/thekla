@@ -1,0 +1,1 @@
+A special edition of an advanced task scheduler that allows you to prepare system maintenance tasks locally and deploy them to all computers in your organization. Control remote tasks with a built-in web browser interface .

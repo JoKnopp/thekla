@@ -1,0 +1,1 @@
+Darryl talks a little bit about how SCYNEXIS has deployed NMR Processor in way that provides all 70 chemists with desktop access to the software without purchasing 70 copies. He mentions that a ratio of 1 : 4 seems to be the right balance for his group when considering cost and access. Check out his recommendations in slides 10 and 11 in his presentation .

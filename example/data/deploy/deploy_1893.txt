@@ -1,0 +1,1 @@
+This application deployment process must specify the set of application artifacts ( i.e. executable code , database objects , files ) that is deployed for a particular release - what I call the unit of deployment. There are two basic approaches to defining a unit of deployment .

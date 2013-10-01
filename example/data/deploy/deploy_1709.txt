@@ -1,0 +1,1 @@
+3.3 Server Deployment License. A Server Deployment License entitles you to deploy the Software together with your Application on one server .

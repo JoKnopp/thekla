@@ -1,0 +1,1 @@
+Internal deployment is generally the first and only option that medium to large corporations consider. Because CIOs and MIS managers have large staffs to justify , their general conclusion without exploration is that the most cost-effective way to deploy a software license is to do so with their own staff and equipment .

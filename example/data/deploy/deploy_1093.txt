@@ -1,0 +1,1 @@
+3.3.1 Server Deployment License Limited Deployment Rights. A Server Deployment License entitles you to deploy the runtime components of the Software royalty-free together with your server-based Application for production use on your public or private server , subject to the following conditions .

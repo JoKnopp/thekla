@@ -1,0 +1,1 @@
+No matter the analytical approach used , actual deployment times will always vary from any modeled deployment timeline. Actual forces tend to be deployed to unpredictable locations , are customized to meet the needs of unpredictable contingencies , and generally experience random incidents that increase the time required for deployment. ( 7 )

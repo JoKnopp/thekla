@@ -1,0 +1,1 @@
+The module you create would be executed only on the PC you want to monitor. Nothing appeared to happen because that 's what the module is designed to do. You should uninstall the SniperSpy installation and then deploy the exe module to the appropriate PC .

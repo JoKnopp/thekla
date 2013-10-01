@@ -1,0 +1,1 @@
+You need a security mechanism to ensure that the correct software is deployed to the correct machine. The STAF security control has 6 levels :

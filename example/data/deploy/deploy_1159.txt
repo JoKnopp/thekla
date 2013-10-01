@@ -1,0 +1,1 @@
+With our hosted service , the software is deployed in our data center where we manage the hardware , software and the network. Access to the software and the database is through an Internet connection .

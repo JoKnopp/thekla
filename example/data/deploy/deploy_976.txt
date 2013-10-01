@@ -1,0 +1,1 @@
+If you use a steganographic alias file with your license , your installer package must put the original bitmap file inside the same directory where you chose to place the Main License File. Again - for simplicity , we recommend that you deploy this and the Main License File to the same directory as the host application executable .

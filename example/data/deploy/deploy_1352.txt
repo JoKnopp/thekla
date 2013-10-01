@@ -1,0 +1,1 @@
+When you deploy your project it should only copy the files that where updated since your last sync up. If that 's not the case , please write a bug report .

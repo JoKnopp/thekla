@@ -1,0 +1,1 @@
+In your IT environment , making hard disk images , saving files , making software and hardware inventories , or taking control of remote computers are essential features to efficient management. Everyday needs include the ability to deploy new applications , unattended , on one or more computers , in a secure way. That 's the purpose of the Linbox Secure Control module ( LSC ) .

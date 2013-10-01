@@ -1,0 +1,1 @@
+Non-security Microsoft updates , third party software and other third party software updates can also be deployed through GFI LANguard Network Security Scanner. This can be done through the Custom Patch Deployment feature. The rest of the article will explain how to this is done .

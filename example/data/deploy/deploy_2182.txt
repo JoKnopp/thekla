@@ -1,0 +1,1 @@
+So far , we 've used scripts and Active Directory to deploy software. This technology is 'free ' , i.e. it comes with your Windows operating system so you do n't need to buy anything extra. That will do just fine for small businesses , I suppose .

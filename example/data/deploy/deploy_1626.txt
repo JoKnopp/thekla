@@ -1,0 +1,1 @@
+The next window lets me decide the mode , I want to deploy my software with. Don ' t be confused , you can choose the mode Advanced which enables you to update and transform the installation package. If you want to update and patch your package or assign a MST file to it , you need to choose Advanced . I choose Assign and click OK . That ' s it .

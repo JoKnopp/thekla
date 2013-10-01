@@ -1,0 +1,1 @@
+Security updates are updates to Microsoft operating systems and other systems software. If you want to manage security updates , begin by deploying the Security Update Inventory Tool .

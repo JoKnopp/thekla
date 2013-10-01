@@ -1,0 +1,1 @@
+Create a script that deploys the JRE 6 version of the applet if the user 's environment has JRE 6 installed , or deploys the JRE 5 version of the applet if JRE 6 is not installed. Here is what that script might look like :

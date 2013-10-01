@@ -1,0 +1,1 @@
+In larger software deployments , the working copy of the software might be installed on a production server in a production environment. Other versions of the deployed software may be installed in a test environment , development environment and disaster recovery environment .

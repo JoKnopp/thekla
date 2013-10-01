@@ -1,0 +1,1 @@
+Using Acronis ' award-winning disk imaging technology , Acronis Snap Deploy creates an exact disk image of the standard configuration , including the operating system , configuration files and all applications. It then deploys that image to multiple systems simultaneously , making it ideal for rapid bare-metal installations .

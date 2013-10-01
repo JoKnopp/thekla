@@ -1,0 +1,1 @@
+The most fashionable , and my personal favorite , method for deploying software tools for a group to use is over the Web. Everybody has a web browser , and therefore all you have to do is give somebody the URL for accessing the tools , and off they go .

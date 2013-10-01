@@ -1,0 +1,1 @@
+" Customers have been seeking greater flexibility in server configurations for creating and running their Web services , but the complexity and cost of integration have limited their options , " said Dr. Sanjiva Weerawarana , founder and CEO of WSO2. " With WSO2 WSAS 3.0 , customers are free to deploy just the functionality they need , without sacrificing performance. "

@@ -1,0 +1,1 @@
+There are also a number of risks associated with hosted software , which must be taken into account. With company data stored at either the vendor 's of a 3rd party hosting facility , businesses have been understandably reluctant to deploy hosted software for applications that collect sensitive data , such as accounting software .

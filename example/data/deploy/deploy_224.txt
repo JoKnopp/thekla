@@ -1,0 +1,1 @@
+A free tool to quickly convert Setup Executables ( .exe ) to Windows Installer Packages ( .msi ) . A MSI packages can be used to deploy software via GPO .

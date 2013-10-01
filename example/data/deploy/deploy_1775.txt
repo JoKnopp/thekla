@@ -1,0 +1,1 @@
+The software package will be deployed to Group members. How and when the package is deployed depends on the deployment method you chose. See the descriptions of the different deployment methods below .

@@ -1,0 +1,1 @@
+Somers , NY and Cambridge , MA - December 11 , 2003 - IBM and Akamai Technologies , Inc. ( Nasdaq : AKAM ) today announced new software that makes it easier to deploy Java 2 Enterprise Edition ( J2EE ) Web applications built on IBMs WebSphere software across Akamais global computing platform .

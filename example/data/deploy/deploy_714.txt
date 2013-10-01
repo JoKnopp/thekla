@@ -1,0 +1,1 @@
+To deploy the latest version of Firewall Client , extract ms_fwc.msi from the Web download by typing the following at the command prompt : ISACLIENT-KB929556-ENU.EXE /c /t : c : \SoftwareDistributionShare

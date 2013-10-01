@@ -1,0 +1,1 @@
+Typically , both a module and a plan are specified. If the module contains a plan or if a default plan can be used , the plan can be omitted. However , if a plan is specified in this case , it overrides the other plans. If the plan references a server component already deployed in the server 's environment , the module is omitted .

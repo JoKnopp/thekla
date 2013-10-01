@@ -1,0 +1,1 @@
+To deploy a program immediately , first make sure that all Clients are connected that will be receiving this deployment. In the main Console screen , choose Connect All from the Client/Group menu .

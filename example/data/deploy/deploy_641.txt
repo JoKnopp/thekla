@@ -1,0 +1,1 @@
+Bayer Material Science has announced it is deploying a series of RFID and sensor-enabled warehousing and logistics automation solutions using InSync 's Edgeware platform. InSync 's technology allows Bayer to rapidly build , test , and deploy multiple solutions using a single , common application platform .

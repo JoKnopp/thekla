@@ -1,0 +1,1 @@
+Managing today ' s increasingly heterogeneous enterprise environments of connected and mobile PCs poses major challenges for IT managers. Primary among them is the need to control the costs of setting up new PCs , migrating user desktop settings , and deploying OS and application upgrades and updates .

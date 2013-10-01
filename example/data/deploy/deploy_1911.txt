@@ -1,0 +1,1 @@
+Right at the top of those disadvantages is cost. You ' ll have far greater upfront costs to deploy an Enterprise application. Everything from the software license itself to the hardware , IT staff and related costs are higher. While these costs are somewhat mitigated over time , the TCO for Enterprise applications is higher than that of SaaS applications .

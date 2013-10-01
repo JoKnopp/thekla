@@ -1,0 +1,1 @@
+Furthermore , the deployment of software upgrades , which can be as challenging as the initial installation with some Windows-based software , requires no end user involvement whatsoever. Because the upgrades are centrally deployed by the vendor , the user simply logs in and the new features are instantly available .

@@ -1,0 +1,1 @@
+Spector CNE records your employees ' emails , chats , web sites visited and keystrokes typed. Whether you monitor ten employees or thousands , you 'll be able to remotely deploy , manage and configure Spector CNE over your company 's network .

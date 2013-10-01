@@ -1,0 +1,1 @@
+Sentry locks down your computer on demand so it 's secure when you are n't using it , and will take messages from people who stopped by while you were away. The program is customizable and can deploy to USB drive , floppy , or CD to lock any PC you use .

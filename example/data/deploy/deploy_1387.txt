@@ -1,0 +1,1 @@
+The easiest way to deploy the Software Update Wizard is with the supplied wuwinstaller.exe , which is located in the 'SoftwareUpdateWizard ' folder under 'Program Files on your computer .

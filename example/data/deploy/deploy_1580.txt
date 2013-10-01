@@ -1,0 +1,1 @@
+When clicking on the Advanced button , you can choose the option Ignore language when deploying this language - this is necessary if the language of the package does not match the language of the OS. If they don ' t match , the package won ' t be installed. You need to tick the box then .

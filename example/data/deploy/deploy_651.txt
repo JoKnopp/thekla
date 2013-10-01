@@ -1,0 +1,1 @@
+There are two different ways that you can deploy an application through the Active Directory. You can either publish the application or you can assign the application. You can only publish applications to users , but you can assign applications to either users or to computers. The application is deployed in a different manner depending on which of these methods you use .

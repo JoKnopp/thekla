@@ -1,0 +1,1 @@
+The core Fusion system can be extended to capture information from remote and mobile workers by deploying the software to the web or to handheld devices such as tablet PCs or PDAs. Customised versions of Fusion also address the needs of particular markets , for example , activity analysis and invoice processing .

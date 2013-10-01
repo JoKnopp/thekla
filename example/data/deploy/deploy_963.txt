@@ -1,0 +1,1 @@
+2.2.4 INS reserves the right to determine the optimal means of deploying software based on the operational requirements of the common use environment .

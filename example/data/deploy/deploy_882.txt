@@ -1,0 +1,1 @@
+As a latest addition for tutorials for how to create Windows Installer Packages using Visual Studio , author Prabhakar Manikonda at CodeGuru has simplified some steps involved to help .NET programmers get used to this easy-to-setup program that allows to deploy applications even without any knowledge of writing setup scripts .

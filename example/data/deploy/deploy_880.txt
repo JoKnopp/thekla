@@ -1,0 +1,1 @@
+The Microsoft Windows Server 2003 family includes a technology called software installation and maintenance that uses Microsoft Windows Installer and Group Policy to deploy and manage software with a minimal amount of administrative effort. In this module , you will learn how to deploy and manage software by using the software installation and maintenance technology .

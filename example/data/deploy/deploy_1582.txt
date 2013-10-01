@@ -1,0 +1,1 @@
+The next-generation Java Plug-In software allows you to deploy an applet to earlier versions of the JRE. Applets that run with an earlier version of the Java Plug-In software can only run in the corresponding version of the JRE .

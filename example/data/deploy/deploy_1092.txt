@@ -1,0 +1,1 @@
+JexePack allows you to Deploy your Java application , along with its resources ( like GIF , JPG , JNI DLLs , etc ) , into a single compressed 32-bit Windows EXE that targets Sun 's Java Runtime Environment. Supports an EXE an a Windows NT service ... .

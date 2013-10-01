@@ -1,0 +1,1 @@
+Q : Do you help deploy and/or customize software packages ? A : This is similar to the previous question , but from more of an Information Technology point of view. I do work with test tools and other tools that assist with the quality assurance process. I can conduct a tool evaluation and help deploy such tools .

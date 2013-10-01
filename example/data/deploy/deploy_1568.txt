@@ -1,0 +1,1 @@
+" It is much easier than before. When we needed a test machine , we had to package it all up into an MSI file then deploy it as an MSI package , and make sure it was not conflicting with anything else. Now I can just use the manufacturers ' executables setup and just call it as a silent install. It works , and it 's saved us an awful lot of time. "

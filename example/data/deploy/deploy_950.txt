@@ -1,0 +1,1 @@
+enerate ready to deploy .NET enterprise applications instantly. Template based and 100 integrated within Visual Studio .NET , Code Complete version 2.0

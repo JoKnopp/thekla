@@ -1,0 +1,1 @@
+Deploy task - This is the main task to be called from your TFS Team build type. This will loop through the deployment script and kill any processes necessary , uninstall the previous version , and install the new version. This now deploys in parallel for quicker deployments .

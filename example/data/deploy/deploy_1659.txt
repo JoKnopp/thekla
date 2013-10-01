@@ -1,0 +1,1 @@
+You should now have the Interest EJB deployed on the server. We will now go over a simple test client that runs one of its methods , just to verify that it 's working .

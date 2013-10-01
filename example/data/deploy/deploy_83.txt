@@ -1,0 +1,1 @@
+This is a very simple battle between Bot001 and nunos , and you 'd have to deploy now. The combat Fleet only has the Raptor , no more Combat Units are present. You 'd now have to make a request to ResponseUrl indicating how you 'd like to Deploy :

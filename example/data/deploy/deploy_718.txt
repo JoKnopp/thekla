@@ -1,0 +1,1 @@
+" You need to be careful that the use of virtual servers does n't erode any responsibility , " Walls said. " The big advantage to virtualization is the speed of deployment. You can deploy ten new servers in an hour. But when you have a much faster deployment model , you can rapidly increase the number of targets for attack. "

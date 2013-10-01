@@ -1,0 +1,1 @@
+PSS will deploy core Epicor Vantage 8.0 manufacturing and scheduling alongside Epicor iScala financials at its UK and Romanian sites by November 2006. A further more advanced implementation of additional Planning , CRM and SRM modules will commence in early 2007 .

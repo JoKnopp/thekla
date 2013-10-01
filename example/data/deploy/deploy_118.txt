@@ -1,0 +1,1 @@
+Our CSCMS product is offered as a SaaS ( Software as a Service ) , deployed on our own high-availability network and servers farm and managed by our experienced engineering and operations team. As an alternative , the client may purchase a Perpetual License and deploy the software on the client 's hardware .

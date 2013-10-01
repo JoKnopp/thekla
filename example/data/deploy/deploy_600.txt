@@ -1,0 +1,1 @@
+After the quality framework is in place , the team can focus on the processes , methodologies and techniques used to scope , architect , design , implement , test , and deploy the software. The team must always keep in mind that all goals are defined in terms of quality and that the tenant described here is used to guide all decisions - no matter how small .

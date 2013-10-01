@@ -1,0 +1,1 @@
+It is possible to apply the MSI installation to deploy iProtectYou on your computers if you are using Active Directory ( Microsoft Windows domain ) . Or you can use another way to deploy the software .

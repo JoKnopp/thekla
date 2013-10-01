@@ -1,0 +1,1 @@
+I suggest that a project develop ( and use ) a process to deploy the software to the target platform in the first iteration. Starting on deployment early gets you closer to the agile goal of shippable code at the end of each iteration .

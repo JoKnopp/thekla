@@ -1,0 +1,1 @@
+Even though Software Installation only works only with MSI-based packages , it does make deploying MSI-based software packages extremely easy. Here is a short list of software ( mostly tools for sysadmins ) that you can deploy using Active Directory :

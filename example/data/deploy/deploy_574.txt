@@ -1,0 +1,1 @@
+If you would like to learn more about how to deploy and configure RWWGuard , consider attending our webinar on December 3rd at 10am PST on Deploying strong authentication for Microsoft 's Remote Web Workplace with RWWGuard. Reserve your seat by registering at https : //www2.gotomeeting.com/register/197170176 .

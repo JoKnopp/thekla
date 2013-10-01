@@ -1,0 +1,1 @@
+We do n't need to wait for the root to be signed. A single ccTLD trust anchor is all that is required to secure many of the DNS transactions that occur within a country ( the U.S. being the single exception to this rule ) . Similarly , a large enterprise can deploy its own trust anchor to its caching servers in order to fully secure its internal DNS .

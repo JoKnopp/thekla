@@ -1,0 +1,1 @@
+Redeploying the Package Object You may wish to update the AXIOLK-1.0.0-BETA1.MSI installer file and redeploy the application to the targets. Keep in mind that once the computer successfully deploys the software package , it will not redeploy the application unless told to do so. To redeploy the Package Object :

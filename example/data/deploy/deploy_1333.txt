@@ -1,0 +1,1 @@
+Foundation Data Management Software provides a " Model First " platform allowing businesses to rapidly build and deploy data management applications. By creating a model of the data within industry standard UML , companies can build and deploy applications to run on Oracle or Sql Server databases to users within the Intranet or across the Internet .

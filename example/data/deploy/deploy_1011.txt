@@ -1,0 +1,1 @@
+Verify that the package and programs that are necessary to deploy the tools are created. To do this , view the packages and programs in the SMS Administrator console .

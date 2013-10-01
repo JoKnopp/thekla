@@ -1,0 +1,1 @@
+2.2.7 Software must be deployed in conjunction with the base image unless otherwise negotiated. Such negotiations may include a cost to the Element making the request .

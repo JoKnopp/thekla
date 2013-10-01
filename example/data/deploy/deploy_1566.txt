@@ -1,0 +1,1 @@
+In the directory holding the installation files there should be a file called SETUP.HTM. This file contains information related to silently deploying Office 2003. There should be a file called SETUP.EXE as well as an MSI. The MSI used in this example is called Pro11.msi .

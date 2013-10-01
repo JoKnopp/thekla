@@ -1,0 +1,1 @@
+An administrator creates a GPO to deploy software to the users of the Sales organizational unit. Later , a user from this organizational unit complains that the application is not deployed properly on his computer. To check the problem , you log on using the user 's account and find that the application appears in Add/Remove Programs but there is no Start menu shortcut .

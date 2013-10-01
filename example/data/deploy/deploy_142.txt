@@ -1,0 +1,1 @@
+Create a JNLP file that will be used to deploy the applet to a JRE in the JRE 5 family. Here is what the JNLP file might look like :

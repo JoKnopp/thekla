@@ -1,0 +1,1 @@
+You can use Group Policy to deploy TN3270 Plus to your users. You can use Group Policy to assign or publish software to users or computers in a domain .

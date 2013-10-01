@@ -1,0 +1,1 @@
+12. The computer implemented method of claim 6 , wherein the lifecycle management interface provides at least one of : managing a service lifecycle; managing a lifecycle of a software package used to deploy the new software service; ormanaging a lifecycle of a service management layer .

@@ -1,0 +1,1 @@
+Don ' t think that just because the data is loaded from internal configuration file or from your own database that it is safe. Unless developers has 100 control over the machine on which the code will be deployed and he is an expert in network security and guards this machine 24/7 , don ' t trust ANY input that you are using in your SQL query .

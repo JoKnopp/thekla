@@ -1,0 +1,1 @@
+The decision comes down to cost , the level of data protection required , and ROI. If it costs less for the solution than it does for the business impact , then it is " good business " to deploy it .

@@ -1,0 +1,1 @@
+CodeTwo CatMan is a free tool for sharing categories in Microsoft Outlook. The program is used to deploy identical categories on multiple workstations with MS Outlook eliminating the need to finger-type data on each machine .

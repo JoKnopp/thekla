@@ -1,0 +1,1 @@
+Summary : IBM Express Runtime offers a cohesive set of middleware components and a single environment that enables ISVs to create and deploy middleware components along with their own applications as a single package across multiple platforms. This article demonstrates the entire process .

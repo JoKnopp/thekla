@@ -1,0 +1,1 @@
+Deploying to new systems with dissimilar hardware is a no-brainer with Universal Deploy. A standard configuration image can easily be deployed to identical hardware .

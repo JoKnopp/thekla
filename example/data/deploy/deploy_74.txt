@@ -1,0 +1,1 @@
+Eclipse-based IDE to efficiently create phone services using all phone channels , including voice , text , video and Web. Use the Developer Edition to simply create , deploy and manage call center phone self-service applications .

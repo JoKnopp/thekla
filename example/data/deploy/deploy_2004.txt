@@ -1,0 +1,1 @@
+This section deals with deploying the software via Active Directory Group Policy , once the required security groups have been set up. Only applications that are packaged in .MSI format ( Microsoft Installer ) format can be deployed via Active Directory , so it assumes that you already have the application in this format , either from the supplier or repackaged by iSolutions .

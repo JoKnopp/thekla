@@ -1,0 +1,1 @@
+Setup installer software has been designed specially for the Software Programmers or Beginners for creating installers or software packages for any Windows application. Professional setup package creator generates the exe file setup of any software application and lets you deploy and distribute created software exe file over internet or via other source .

@@ -1,0 +1,1 @@
+This document provides detailed guidelines on how to deploy SurveilStar PC/Internet monitoring software. Content on this topic is also available in both PDF and Doc documents , you can download either of the document for latter reference. Review the IT structure of SurveilStar employee monitoring system before getting started .

@@ -1,0 +1,1 @@
+You can assign a software package to a category at the time that you deploy the application , or you can assign it at any time thereafter. You can also list packages under more than one category. You assign a package to a category on the Categories tab in the Properties dialog box for the package .

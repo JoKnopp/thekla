@@ -1,0 +1,1 @@
+Some times one provided application will depend on another. For example , KForge expects Trac to be installed. Provide can deploy Trac and KForge , and link Trac to KForge so KForge has its Trac .

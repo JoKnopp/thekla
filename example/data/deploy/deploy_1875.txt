@@ -1,0 +1,1 @@
+In the next procedure , you use the update list to open the Deploy Software Updates Wizard to create a software update deployment and package for the updates that are contained within the update list. The Deploy Software Updates Wizard deploys the software updates defined in the deployment to members of the target collection that you specify .

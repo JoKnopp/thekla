@@ -1,0 +1,1 @@
+Takeaway : When businesses are trying to decide how to deploy software , they have to choose between internal deployment , outsourcing , and hosting. Columnist Tim Landgrave helps you decide which option is best for your enterprise .

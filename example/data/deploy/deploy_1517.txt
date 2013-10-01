@@ -1,0 +1,1 @@
+You are the IT manager. You want to create a virtual application for Mozilla Firefox and deploy it using Software Virtualization Solution to managed client computers on your network .

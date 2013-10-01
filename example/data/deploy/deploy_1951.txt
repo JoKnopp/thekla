@@ -1,0 +1,1 @@
+Run the module creator link from the order email and follow the screens. After the module is created you will deploy the software either remotely or locally. After the software is deployed you will login to your control panel to view results. Click a link in the outline below to learn more about that phase of the process .

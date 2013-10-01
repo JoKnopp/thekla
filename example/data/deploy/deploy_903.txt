@@ -1,0 +1,1 @@
+Universal Deploy provides a simple way for you to deploy new systems with different hardware. A standard configuration image can easily be deployed to identical hardware .

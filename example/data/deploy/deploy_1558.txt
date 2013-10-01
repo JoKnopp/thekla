@@ -1,0 +1,1 @@
+Select the collection or individual computers in Admin Arsenal to which you wish to deploy Office 2003. Drag the Pro11.MSI file from Windows Explorer onto the selection or click the Deploy tool .

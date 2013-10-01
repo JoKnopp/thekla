@@ -1,0 +1,1 @@
+If an OU or a Group is specified as the target for a configuration , check whether that OU/Group has users and computers within it. You should login as that user or restart the computers within that OU/Group to get the configurations deployed .

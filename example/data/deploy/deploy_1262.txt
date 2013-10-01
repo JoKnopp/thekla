@@ -1,0 +1,1 @@
+Archive the source. The script can archive the source and resource files that were used for the deployment , so that later on the exact status of the project can be reconstructed if an error occurs in a deployed package , but development has changed the source codes in the meanwhile .

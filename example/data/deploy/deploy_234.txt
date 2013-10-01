@@ -1,0 +1,1 @@
+This section provides information about how to deploy Office software updates. The following procedures use the 2007 Office system SP1 update as an example .

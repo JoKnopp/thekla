@@ -1,0 +1,1 @@
+JUNOS is a reliable , high-performance network operating system for routing , switching , and security. It reduces the time necessary to deploy new services and decreases network operation costs by up to 41 . JUNOS offers secure programming interfaces and the JUNOS SDK for developing applications that can unlock more value from the network .

@@ -1,0 +1,1 @@
+Note : You may associate document types only with applications that have been deployed by using Group Policy. For example , you can not associate the .doc file extension with WordPad unless you create a package file for deploying WordPad .

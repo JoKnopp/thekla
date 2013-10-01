@@ -1,0 +1,1 @@
+No software built is 100 Secure. It however , can be designed , developed , and deployed with a secure mindset , and security controls that minimize the likelihood of exposure and the impact if exploited .

@@ -1,0 +1,1 @@
+Realtime-Spy is built with security in mind since it is remote based. Realtime-Spy can operate in complete stealth , can be deployed remotely , and is password protected from outside users. Only you can access the remote PC .

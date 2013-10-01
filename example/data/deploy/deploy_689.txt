@@ -1,0 +1,1 @@
+Prism Deploy saves its distribution packages as single , compressed files that can be viewed and edited. Prism Deploy 's Packages are very portable and can be easily deployed from any media .

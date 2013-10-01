@@ -1,0 +1,1 @@
+Yeah , the CSE should be just fine with that. You can also go re-deploy single packages deployed wiht a common GPO. That 's more of a management and " clear to understand for others " question you need to ask yourself .

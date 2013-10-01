@@ -1,0 +1,1 @@
+The IT team at the trust are a very clever bunch of people and I 'm really impressed with how they are using uniPaaS to totally overhaul their legacy IT applications. By using uniPaaS they will bring together all their existing applications in a way that provides total development control and can be deployed across a variety of different methods .

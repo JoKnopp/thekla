@@ -1,0 +1,1 @@
+A Metal Slug survival game. Use dagger , pistol and mines to anihilate dangerous zombies. Use Arrow keys to move the commando , A - button to use knife , S - button to shot pistol , D - button to deploy the mine .

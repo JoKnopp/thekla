@@ -1,0 +1,1 @@
+This topics outlines the steps required to deploy TN3270 Plus using Group Policy. Use these steps as a guideline. You may need to modify the steps slightly to meet your company 's requirements .

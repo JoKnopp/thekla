@@ -1,0 +1,1 @@
+Office updates are software updates to Microsoft Office software. If you want to manage Office updates , begin by deploying the Microsoft Office Inventory Tool for Updates .

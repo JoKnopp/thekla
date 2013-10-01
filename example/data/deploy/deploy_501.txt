@@ -1,0 +1,1 @@
+I have an NSIS based installer at the moment. I 'm wondering if it would be worth it to invest the time into learning WiX so that I can give my users an msi installer , which they can deploy through Active Directory. I 've done it at the company I work ( which is also a small company ) but I do n't think the company I work at is typical .

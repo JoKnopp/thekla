@@ -1,0 +1,1 @@
+The Variables tab enables you to configure the variables you need in deploying applications. For our sample application project , two variables , DB2UserId and DB2UserPassword , are required. We will first add the variables and then set the following validation rules for these two variables ( you can always add more , if necessary ) :

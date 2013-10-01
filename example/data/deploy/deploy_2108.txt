@@ -1,0 +1,1 @@
+The first thing we need is the actual setup file ( or files ) . We will start with a Windows Installer package. Windows Installer setup files end with the .msi extension. Legacy setup files such as setup.exe can be deployed as well , but in this example we will use a Windows Installer package .

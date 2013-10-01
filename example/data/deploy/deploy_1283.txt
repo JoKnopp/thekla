@@ -1,0 +1,1 @@
+STC will strive to deploy Departmentally Sponsored software whenever possible. However , some software can make unusual demands upon the unique Student Technology Center computing environment. When practical , STC will attempt to accommodate those applications , but this may not always be possible within the scope of the mission of the Student Technology Centers .

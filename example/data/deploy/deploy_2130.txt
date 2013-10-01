@@ -1,0 +1,1 @@
+There is actually a surprising number of approaches to how IT managers deploy software onto PCs. This article will survey some popular methods and delineate their pluses and minuses .

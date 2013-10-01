@@ -1,0 +1,1 @@
+Do not have the ability to install with elevated privileges. If you intend to deploy .zap files , users must have permission to install software on their local computers .

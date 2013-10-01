@@ -1,0 +1,1 @@
+Where &lt; moduleIDs &gt; is a list of one or more modules ( configID ) separated by blank space. The module identification ( or ConfigID ) is defined at deployment time in the respective deployment plan for each module previously deployed .

@@ -1,0 +1,1 @@
+At the end of 2009 , Magic Software attended the Business Cloud 9 Summit and as a result , I was recently asked by them to provide an industry view for an article debating the relevance of pure-cloud platforms in the 'real business world'. The article looks at the issues currently facing ISV 's looking to deploy on multiple platforms and how best to achieve this .

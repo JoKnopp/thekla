@@ -1,0 +1,1 @@
+This script deploys the applet using the JNLP file , applet.jnlp. The JNLP file specifies that the applet in applet3.jar requires a JRE in the JRE 5 family. The deployJava.runApplet function in the script specifies a minimum JRE version of JRE 5 to deploy the applet .

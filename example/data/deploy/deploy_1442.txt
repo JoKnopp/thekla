@@ -1,0 +1,1 @@
+Create an update list in Software Updates. An update list in Configuration Manager 2007 contains a set of software updates. It is recommended that you use an update list because it provides several benefits when deploying and monitoring software updates .

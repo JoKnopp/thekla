@@ -1,0 +1,1 @@
+[ 0130 ] If the requested software is an existing software service , the active repository identifies an existing active object that manages the existing software service. The existing software service is deployed in the network using the existing active object and managed using the existing active object .

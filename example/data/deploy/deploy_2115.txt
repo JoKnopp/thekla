@@ -1,0 +1,1 @@
+For example , your organization could deploy both Word 2000 and Microsoft Word XP. Each word processing program may be preferred in a different department , but both of these programs use the .doc file extension. You need to adjust the file extension priorities for each department so that users always receive the correct word processing program .

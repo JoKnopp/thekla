@@ -1,0 +1,1 @@
+The evolving DDP and RDMA protocols , historically known as iWarp , provide for higher performance and lower overhead transfers over existing , widely deployed TCP/IP networks. While hardware implementations of iWarp are starting to emerge , there is a need for software implementations both as a transition mechanism and for testing .

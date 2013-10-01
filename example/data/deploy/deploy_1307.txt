@@ -1,0 +1,1 @@
+So my MSI file now lies in the C : \AppDeploy folder which is shared as AppDeploy , I may create a Software Installation policy. But before that , I have to think about how I ' d like to deploy that software. As with many policies , I can decide to either deploy the software per user or per computer .

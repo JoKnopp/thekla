@@ -1,0 +1,1 @@
+The Accenture Web Services Platform is a set of reusable software components and services for the entire development cycle. The technology is designed for companies that need to manage and deploy projects across multiple geographical regions , subsidiaries , and partner companies .

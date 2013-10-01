@@ -1,0 +1,1 @@
+You can download the setup file and deploy it in your hosting server. You can deploy the downloaded setup file in only one server to access all the features. Technology : PHP , MySQL Your hosting server requires PHP enabled web server with MySQL database.

@@ -1,0 +1,1 @@
+Extract the both the 32-bit and 64-bit MSIs in the zip file to somewhere useful. If you want to deploy them via GPSI , check out the PDF ( I wrote it , and welcome any comments/suggestions , as I have a lot to learn about GPSI ! )

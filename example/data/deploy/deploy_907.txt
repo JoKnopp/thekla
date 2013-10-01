@@ -1,0 +1,1 @@
+Then you can decide if you wish to deploy your own license manager for your end users - this you can simply do by making calls to our API or for speed we provide you with an end user license utility called ControlActivation.exe that is run with your installer package .

@@ -1,0 +1,1 @@
+As well as disaster recovery , disk imaging can be used to deploy new PCs without having to install an operating system and then configure application software and custom settings every time. Snap Deploy from Acronis takes this one step further , adding tools to enable images to be pushed out to bare PCs and configure them remotely with the whole process automated , if required .

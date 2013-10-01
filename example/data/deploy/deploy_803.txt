@@ -1,0 +1,1 @@
+The maintenance team for a typical enterprise business application must make ongoing changes to the application. In the effort to fix defects , revise existing functionality , and add enhancements , little thought may be given to the process by which these changes are deployed from development through to testing and then the production environment. However , this process [ ... ]

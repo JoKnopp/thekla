@@ -1,0 +1,1 @@
+Customizable deployment options Maximize the performance of new machines by allowing partitions to be resized. Ensure that machines are properly deployed by providing options to reboot or shutdown after the master image is applied

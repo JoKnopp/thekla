@@ -1,0 +1,1 @@
+If you deploy at 80 you get most of the important requirements out there available to the end user faster and you are more likely to identify the remaining important requirements quickly afterwards. You deliver to your customer and can see in the field which remaining requirements are important , de-scoping the rest ( and thus reducing the length of your project ) .

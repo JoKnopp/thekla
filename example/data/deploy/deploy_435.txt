@@ -1,0 +1,1 @@
+OpenViz is a comprehensive data visualization system for all Java and Microsoft platforms that enables solution designers to create and deploy interactive visual presentations from any type of data. [ Learn more ]

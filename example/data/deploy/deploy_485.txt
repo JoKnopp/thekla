@@ -1,0 +1,1 @@
+I am a big proponent of automating the building and deployment of application code : this minimizes the chance of human error and ensures a consistent process is followed. Last year I wrote an article about automatically deploying code via FTP using the Java-based Apache Ant build tool. Since then I have needed to deploy to [ ... ]

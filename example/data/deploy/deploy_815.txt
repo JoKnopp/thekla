@@ -1,0 +1,1 @@
+Application files : These are text files with a .zap file extension which include instructions on how to publish an application. Because .zap files do not support Windows Installer features , they are used to deploy and install applications using its original Setup.exe or Install.exe program .

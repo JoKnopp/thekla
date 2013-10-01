@@ -1,0 +1,1 @@
+On the Welcome page for Control Center , click on the Start Deploy Package Wizard link. The wizard that will guide you through all steps if deploying your first Package .

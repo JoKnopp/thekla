@@ -1,0 +1,1 @@
+But getting this information , managing it , and making it available is often not enough. It needs to be actively deployed to designers and decision-makers where they need it , when they need it , and in the format that they need it .

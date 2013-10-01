@@ -1,0 +1,1 @@
+Packages are only deployed upon the initial boot of a computer , or during the logon of a user , depending on how the Package Object is defined. Packages will NOT be deployed during the normal Security Settings refresh interval .

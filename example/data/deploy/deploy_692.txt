@@ -1,0 +1,1 @@
+Industry analyst , IDC , reported that in 1999 , Windows represented 30 and UNIX represented more than 50 of the $ 5.8 billion in Internet server sales. In order to tap the Internet server markets , independent software vendors ( ISVs ) and Internet infrastructure providers must deploy on both Windows and UNIX .

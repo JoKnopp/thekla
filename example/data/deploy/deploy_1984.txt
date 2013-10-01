@@ -1,0 +1,1 @@
+Use the Prism drag and drop deployment Console to assign a deployment task to install a Windows Installer file. When you deploy software with Prism Deploy , you receive reports on the deployment .

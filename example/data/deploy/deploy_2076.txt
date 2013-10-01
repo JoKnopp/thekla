@@ -1,0 +1,1 @@
+When planning to deploy software through group policy , you should ncompass the software requirements of the organization into your strategy. Assess the organizational structure in Active Directory and identify the available GPOs .

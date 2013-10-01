@@ -1,0 +1,1 @@
+4. The next screen gives you a choice of how you want to deploy the software : Published , Assigned , or Advanced. We 'll go over the differences between these options next; for now select Published , which will install the application the first time a user clicks a file associated with it. ( Double- clicking a .DOC file would launch the Microsoft Word installer , for example . )

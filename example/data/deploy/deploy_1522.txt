@@ -1,0 +1,1 @@
+At the time , he and his team of two technicians relied on WinInstall to deploy software to a total of 300 desktop machines and a further 180 laptops , but the DOS-based tool was limited to batches of 10 machines at a time. " We needed a tool that would at least allow us to update an ICT suite of 30 to 32 machines in one go , " Ellis said .

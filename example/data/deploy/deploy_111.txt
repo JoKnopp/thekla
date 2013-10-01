@@ -1,0 +1,1 @@
+By purchasing an Acumatica license , you gain the flexibility to deploy your software on-premise or host it with a service provider of your choice. The software can run on a server , a virtual server , or a cloud computing environment depending on your needs .

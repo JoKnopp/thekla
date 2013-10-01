@@ -1,0 +1,1 @@
+Final Tips : For a more detailed walk-through on how to set up DFS , see this article by my colleague Andrew Tabona on WindowsNetworking.com. And for tips on creating MSI packages for deploying custom applications using Group Policy , see this article and other articles by me on the same site .

@@ -1,0 +1,1 @@
+Finally , once you 've deployed a software package through a GPO , you can use a newer installer to upgrade that package using the Upgrades tab of the Properties sheet. An upgrade package can either be optional or mandatory , and the upgrade will take place the next time the user logs on or the machine boots up .

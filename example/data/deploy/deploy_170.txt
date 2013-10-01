@@ -1,0 +1,1 @@
+This article provides information about how to deploy the 2007 Microsoft Office system updates by using Microsoft System Center Configuration Manager 2007. Configuration Manager 2007 provides a comprehensive solution for change and configuration management for the Microsoft platform and enables organizations to provide software and updates to users quickly and cost-effectively .

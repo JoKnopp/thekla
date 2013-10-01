@@ -1,0 +1,1 @@
+The Perl Dev Kit ( PDK ) provides essential tools for Perl programmers , making it simple to build and deploy applications. PDK features application builders for Windows , Mac OS X , Linux , Solaris , AIX and HP-UX; plus a suite of tools to speed development time and improve code quality. * Deploy your Pe

@@ -1,0 +1,1 @@
+Here 's another example. Suppose you want to deploy an application using Java Web Start technology and you require the user to have JRE 6 Update 10 or higher installed. You can invoke the deployJava.launch ( jnlp ) function to do that as shown in the following script example :

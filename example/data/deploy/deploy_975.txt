@@ -1,0 +1,1 @@
+Define the manner in which the applications are going to be deployed to users or computers. Are the applications going to be published in Active Directory , or assigned to users and computers ?

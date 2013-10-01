@@ -1,0 +1,1 @@
+Simply use the form HERE to change your password. This password change will effect remotely deployed Realtime-Spy modules - if you change your password they will not longer update your webspace with logs until you reconfigure their passwords .

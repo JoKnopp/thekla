@@ -1,0 +1,1 @@
+Prism Deploy 's Uninstall feature lets you undo or uninstall any changes you 've made to your computers using Prism Deploy. Whether you change your mind about a distribution or just want to free up software licenses for other computers , Prism Deploy makes it simple to remove the software you 've deployed .

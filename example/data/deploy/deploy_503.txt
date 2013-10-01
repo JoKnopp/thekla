@@ -1,0 +1,1 @@
+2. Navigate to User Configuration Software Settings Software Installation from either the Computer Configuration or User Configuration node. ( You can also deploy software to computers instead of users; we 'll talk about that in the " Understanding Deployment Options " section next . )

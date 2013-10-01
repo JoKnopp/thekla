@@ -1,0 +1,1 @@
+If you manage offices without on-site IT staff , the Arkeia Physical Appliance is probably a good fit. The Physical Appliance doesn ' t need regular maintenance and can be controlled via HTTP over a WAN. You can deploy a Physical Appliance with 10TB of useful storage , enough to maintain a short backup window for even large offices .

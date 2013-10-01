@@ -1,0 +1,1 @@
+Takeaway : IT departments will always contend with the never-ending process of upgrading software , but the days are gone when deploying a new product or service pack required an army of techs. Here are some software deployment tools to cut deployments down to size .

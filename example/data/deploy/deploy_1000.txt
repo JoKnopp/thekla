@@ -1,0 +1,1 @@
+You choose your hardware and gain maximum performance on the hardware you deploy and you can extend local storage volumes and hardware models without limit. Most Arkeia customers continue to deploy Arkeia Network Backup as a traditional software application .

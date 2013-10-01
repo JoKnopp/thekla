@@ -1,0 +1,1 @@
+[ 0011 ] FIG. 4 illustrates a flow diagram of a process for deploying complex software to a computer infrastructure according to one embodiment .

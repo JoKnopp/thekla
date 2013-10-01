@@ -1,0 +1,1 @@
+This is a step-by-step checklist for using RemoteScope to deploy the MSN Messenger program to Client systems. The procedure is substantially the same for installing any other product that uses the Microsoft Installer file MSIEXEC.EXE .

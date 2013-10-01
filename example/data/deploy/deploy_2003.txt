@@ -1,0 +1,1 @@
+When we last left our heroes , we finished reviewing Software as a Service , the different environments we utilize at CA for deploying code , as well as what is a Change Request ( CR ) , and how CRs are classified into defects , enhancements , work orders , and architecture issues. Today I ' m going to delve into our actual processes for creating and deploying software .

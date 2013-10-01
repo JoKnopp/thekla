@@ -1,0 +1,1 @@
+The software that is to be deployed can fall into one of two groups. It can either be one of a number of applications that all members of a Faculty , School or division can use , or it can be a single application that is restricted to a specific group of people within the School. Whatever the usage scope of the software , permissions will be assigned in the same way .

@@ -1,0 +1,1 @@
+Configuration Manager 2007 has dependencies on several components that must be installed and configured before deploying updates. This article assumes that the administrator has already performed the following tasks before deploying the 2007 Office system updates .

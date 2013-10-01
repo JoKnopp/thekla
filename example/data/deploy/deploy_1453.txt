@@ -1,0 +1,1 @@
+Will the software run in the STC environment ? The STC team strives to provide a secure computing environment second to none in the academic community. Deploying otherwise standard software often requires special procedures , and specialized applications often present unique challenges .

@@ -1,0 +1,1 @@
+How to deploy Windows software on Sun Ray by ZDNet 's Paul Murphy -- here are many different ways to provide access to Windows applications on Sun Ray smart displays. This Sun page offers " white papers " and real how-to information on a wide range of choices .

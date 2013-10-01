@@ -1,0 +1,1 @@
+Please note , you should place secman.dll as a shared DLL into the shared folder of Windows , Common Files \ Outlook Security Manager. Please do not unregister secman.dll if it had existed before you installed your product. The complete information about deploying shared files you can find on the MSDN website : Windows 2000 Application Specifications : Component Sharing

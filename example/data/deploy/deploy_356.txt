@@ -1,0 +1,1 @@
+And in bigHand for the most part these can be set using roles in the central database. This means they ' re very simple to change instantly and also means you can simply manage different configurations for different people. All this can be done without the need to deploy patches , upgrades or do any amendments on the desktop PC .

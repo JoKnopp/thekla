@@ -1,0 +1,1 @@
+After you are finished testing the tools and verifying the installation , you can deploy the software update inventory scan tools more broadly by removing the test-limited query from the main collection. To do this , you modify the Collection Properties dialog box for the main targeting collection .

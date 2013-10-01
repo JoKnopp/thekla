@@ -1,0 +1,1 @@
+You still need to decide how you will deploy it. Will you do it yourself , outsource it , or use a host ? In this article , we ' ll look at the pros and cons of each option .

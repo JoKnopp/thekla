@@ -1,0 +1,1 @@
+Posted on ZDNet News : Jan 28 , 2002 12 : 00 : 00 AM Windows 2000 administrators spend a lot of time deploying software to multiple clients using Microsoft 's built-in automated network installation technology. While adequate in some cases , third-party deployment tools often provide more advanced features and unique functions .

@@ -1,0 +1,1 @@
+" Organizations do n't want to deploy insecure software , but have n't had any insight into the validation or verification of their applications , " said Matthew Moynahan , CEO of Veracode. " This partnership lets organizations know the security and authenticity of software before making important and expensive deployment decisions. "

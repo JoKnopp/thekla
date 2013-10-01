@@ -1,0 +1,1 @@
+In an enterprise there are many ways to deploy new software. With Windows 2000 server and client Microsoft made a new standard with the Windows Installer and Group Policy. Windows Installer ( aka. Microsoft Installer ) is a defined way to install applications on a computer and the group policy can be used to distribute applications to several computers at the same time .

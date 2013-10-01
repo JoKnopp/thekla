@@ -1,0 +1,1 @@
+Build the binaries. If possible , let the script not only copy the binary files of your software but also trigger the build process. The advantage is , that you can be sure that the binaries are created from the latest sources and that there will be only a binary deployed if the building process was successful .

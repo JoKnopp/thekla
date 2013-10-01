@@ -1,0 +1,1 @@
+Note : If you want to remove the entire SurveilStar PC/Internet monitoring system , including Agents , Consoles and Server , please delete all SurveilStar Agents first. Otherwise , the deployed SurveilStar Agents will continue to run in those computers , even though the SurveilStar Server is removed. Uninstall Agent , Uninstall Console , Uninstall Server .

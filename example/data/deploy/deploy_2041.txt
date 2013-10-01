@@ -1,0 +1,1 @@
+Remember where you saved the module and do n't run the module on your local computer. If you execute the module on your local machine then it will record the activity of that PC. You would then need to uninstall SniperSpy through the control panel before deploying .

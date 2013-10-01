@@ -1,0 +1,1 @@
+The most common &lt; general_options &gt; would be -- user and -- password. The -- inPlace option allows you point to and deploy an application directly from a directory external to Geornimo without the need for even packaging the application. In other words , you can have an application running in Geronimo but that application may be anywhere else on the file system .

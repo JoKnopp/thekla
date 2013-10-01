@@ -1,0 +1,1 @@
+In this scenario , you want to deploy an applet to any JRE in the JRE 5 family. However , you also want to take advantage of the new features in the next-generation Java Plug-In software introduced in JRE 6 Update 10. Among the new features provided by the next-generation Java Plug-In software are built-in JNLP support and an improved user experience .

@@ -1,0 +1,1 @@
+You need not be a rocket scientist to deploy SAMLite. With comprehensive documentations and email support , SAMLite typically takes less than a week to deploy and capture the installed software data on all desktops and servers. Because there are no active agents installed on your machines , you can rest assure knowing that it will not impact any existing applications .

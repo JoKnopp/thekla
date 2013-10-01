@@ -1,0 +1,1 @@
+It is recommended that you deploy software as high in the Active Directory hierarchy or tree as you can. Software should be deployed close to the root in the Active Directory tree because it allows you to use one GPO to deploy software to multiple users .

@@ -1,0 +1,1 @@
+This works well enough for deploying software. For something licensed like Acrobat , I just deploy the software to select computers by adding specific computers to a security group in the Active Directory and restrict the number of deployed instances to the number of licenses we have available .

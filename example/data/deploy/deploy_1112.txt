@@ -1,0 +1,1 @@
+Group policy was introduced with Windows 2000 , and is an easy way of centralizing many Windows settings. In addition to centralizing event log and firewall settings , I personally like the ability to deploy MSI-based software applications with Group Policy , since it makes it extremely easy to deploy new software packages .

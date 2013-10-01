@@ -1,0 +1,1 @@
+Software Distributor. The entity that takes charge of distributing and installing the software to the proper clients. It can be the organization itself or a team of specialized developers within the Software Producer organization. Sometimes , it can take charge of some specialized services on the deployed software .

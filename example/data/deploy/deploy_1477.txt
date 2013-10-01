@@ -1,0 +1,1 @@
+SurveilStar monitoring system requires a SQL data server to store and feed the collected data. The server can be deployed on a dedicated computer or any computer deemed appropriate to be used as a data server , according to the following requirements :

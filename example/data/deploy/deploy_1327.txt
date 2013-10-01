@@ -1,0 +1,1 @@
+FIG. 4 is a flowchart of the method used in on-line selection of software/content that needs to be deployed on mobile devices. DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS

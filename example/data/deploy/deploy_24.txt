@@ -1,0 +1,1 @@
+As long as you have an .MSI installer for the application you want to deploy , doing so through Group Policy is pretty much a snap. If your application does not have an .MSI file associated with it , though , you are still not entirely out of luck. You can create a .ZAP file that will still allow you to deploy the software , with the following caveats :

@@ -1,0 +1,1 @@
+VNCScan allows you to remotely control and manage your workstations and servers. VNCScan is the legendary front end to VNC. With VNCScan , you can : * Scan for and deploy VNC Remote Control on your network * Search a network for a user login * Deploy standard settings for all of your VNC server

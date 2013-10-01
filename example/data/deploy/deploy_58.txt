@@ -1,0 +1,1 @@
+Wrappers can be thought of as the " workflow " or " controller " elements that are responsible for controlling the flow of execution for deploying a component. There are two types of wrappers available :

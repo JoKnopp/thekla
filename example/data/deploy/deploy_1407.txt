@@ -1,0 +1,1 @@
+This document details how to deploy software to University Desktop Environment ( previously MDE ) users and systems , and concentrates on how to control who can access it. It uses the recommended ' Account , Global Group , Domain Local Group , Permissions ' ( A- &gt; G- &gt; DL- &gt; P ) group model to configure the security and permissions .

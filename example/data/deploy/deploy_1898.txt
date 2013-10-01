@@ -1,0 +1,1 @@
+4. There 's no value chain. Registries do n't make more money when they implement DNSSEC , nor do registrars , nor do registrants , nor do end users. The only incentive is by vendors who may hope to recoup their investment in implementing this stuff by selling software , devices , and support to folks who may want to deploy it. This is a very weak story .

@@ -1,0 +1,1 @@
+In the software as a service model , the application , or service , is deployed from a centralized data center across a network - Internet or private network - providing access and use on a recurring fee basis. Users " rent , " " subscribe to , " are assigned , or " are granted access to " the application from a central provider .

@@ -1,0 +1,1 @@
+Use Specops Deploy to deploy the 2007 Microsoft Office system. Deploying Office is usually quite cumbersome. But not anymore if you use Specops Deploy. Read more about this in our documentation .

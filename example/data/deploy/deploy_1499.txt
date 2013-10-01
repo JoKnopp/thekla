@@ -1,0 +1,1 @@
+SafeRelay is a certificate authority center , based on OpenSSL , for network administrators who want to deploy certificates on a LAN ( local area network ) .. .

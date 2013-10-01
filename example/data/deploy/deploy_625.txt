@@ -1,0 +1,1 @@
+Prism Deploy is optimally designed for deploying software and updates to mobile and remote PCs and laptops. Prism Deploy has several built in features for this environment , specifically :

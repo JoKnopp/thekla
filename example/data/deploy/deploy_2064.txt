@@ -1,0 +1,1 @@
+[ 0018 ] FIG. 7 depicts a flowchart of an operation used to deploy and manage a software service in accordance with an illustrative embodiment .

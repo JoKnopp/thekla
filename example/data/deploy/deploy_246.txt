@@ -1,0 +1,1 @@
+The first step that almost anyone can take is deploying a validating resolver. Almost all currently available resolver software supports DNSSEC validation. Right now , you would still have to use interim solutions like DLV or ITAR to bootstrap the trust chains in your resolver , but soon that will be a thing of the past when the signed root zone becomes publicly available .

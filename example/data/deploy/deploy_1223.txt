@@ -1,0 +1,1 @@
+After downloading Specops Deploy you can deploy your first software package within the hour. Deploy software using Group Policy and get full feedback , installations/repairs/uninstallations during boot/logon or at runtime , for user and computers , scheduling , BITS support for mobile workers , end user notification .

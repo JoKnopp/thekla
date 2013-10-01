@@ -1,0 +1,1 @@
+The driving goal is to satisfy strong customer demand to reduce the time , cost and effort required to create , deploy and maintain products. To achieve this goal , the ultimate solution must minimize duplicate effort , maximize commonality among design and implementation assets , and optimize reuse of effort across similar products within each of its product lines .

@@ -1,0 +1,1 @@
+" Once you have obtained the appropriate MSI file , you must create a distribution point for the software to be deployed from. Your distribution point needs to be a centralized location , preferably on a server , where a shared folder can be created that all users have read access to. Once you have created this shared folder , you need only to copy the MSI file into it. "

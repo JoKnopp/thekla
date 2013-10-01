@@ -1,0 +1,1 @@
+Oracle Database 10g Express Edition ( Oracle Database XE ) is an entry-level , small-footprint database based on the Oracle Database 10g Release 2 code base that 's free to develop , deploy , and distribute; fast to download; and simple to administer. Oracle Database XE is a great starter database for :

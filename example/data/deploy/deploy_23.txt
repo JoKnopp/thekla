@@ -1,0 +1,1 @@
+This is a monitoring Tool for both networked and personal PCs. It lets companies and individuals track use and abuse easily and invisibly using password-protected encrypted log files. You can Deploy this Tool using e-mail ... .

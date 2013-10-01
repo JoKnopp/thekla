@@ -1,0 +1,1 @@
+Deployment A package and target combined with additional deployment parameters such as when and how the package will be deployed. The desired deployment also has a state such as deploying or undeploying .

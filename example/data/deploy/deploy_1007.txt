@@ -1,0 +1,1 @@
+In the Browse Box , enter the UNC path to the MSI file deployed earlier. You must only use UNC paths here , and never paths that include drive letters .

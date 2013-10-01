@@ -1,0 +1,1 @@
+I ' ll deploy the gpmc.msi package which contains the Group Policy Management Console ( GPMC ) for Windows XP. I ' ll deploy it on a OU that contains Management Users. On my Domain Controller , I have already installed the GPMC , but in order to have the application installed on every workstation one of my Admins logs on to , I ' ll deploy it that way. You ' ll see later why .

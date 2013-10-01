@@ -1,0 +1,1 @@
+Deploy The first part of the battle is the Deploy. When you request battles using the previous URL you 'll receive something like :

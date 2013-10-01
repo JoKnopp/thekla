@@ -1,0 +1,1 @@
+2. The Cisco License Manager displays the devices in the network , and gathers the licensing information for each , saving it in the license management database. The information gathered includes which licenses are deployed on the devices , as well as other licensable features on each device that have not been activated yet .

@@ -1,0 +1,1 @@
+[ 0002 ] Furthermore , conventional systems generally require all software components to be deployed at once. This limits the capability to test the correct deployment of a particular software component without having to deploy the entire system. Some conventional deployment systems require that the infrastructure be unavailable while new software components are being deployed .

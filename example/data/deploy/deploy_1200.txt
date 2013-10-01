@@ -1,0 +1,1 @@
+The software you ' ve deployed is the same on all the machines in your organization. If you install the software on each machine individually , you often end up with differences in each installation , which can make the software harder to support .

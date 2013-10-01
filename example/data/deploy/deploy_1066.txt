@@ -1,0 +1,1 @@
+Create a script that deploys the applet to user environments that have a JRE installed that is in the JRE 5 family. Here is what that script might look like :

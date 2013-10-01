@@ -1,0 +1,1 @@
+" With WinInstall , if software was n't packaged in an MSI file , we had to package it up ourselves because it would not deploy executables. With KBOX , we can have a choice : we can deploy from an executable , we can create a batch file to call the installation; we have multiple ways to do the installation. It works very well , " he said .

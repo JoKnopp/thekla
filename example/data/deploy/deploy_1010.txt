@@ -1,0 +1,1 @@
+All private and public sector organizations ( businesses , schools , federal/state/local governments , etc. ) face increasing challenges when configuring and deploying new servers in a distributed environment. Having a deployment solution that enables them to use a standard configuration for a new machine will significantly decrease support expenses .

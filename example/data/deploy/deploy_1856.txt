@@ -1,0 +1,1 @@
+getIntranet is a rapidly deployable Intranet-in-a-box : a feature-rich , cost-effective , robust communication tool that any company can deploy to assist in managing tasks ( e.g. , document and content management , online leave forms )

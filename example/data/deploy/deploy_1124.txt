@@ -1,0 +1,1 @@
+The Software Virtualization Agent manages the Virtual Software Packages deployed to client computers. Each computer that will use Virtual Software Packages must have the Software Virtualization Agent deployed on it .

@@ -1,0 +1,1 @@
+These bots ( as we call them ) can deploy files , distribute them across your network , or even launch a specific application , and then delete it once its task has been completed. This allows you to install any application across any of your remotely accessible systems .

@@ -1,0 +1,1 @@
+You should deploy multiple applications with a single GPO because it is easier to administer multiple applications from the same GPO than to manage multiple GPOs. User logon time is also accelerated because less GPOs need to be processed .

@@ -1,0 +1,1 @@
+All the employees in your organization , if interested , can install a particular application and use it. How will you deploy the application ?

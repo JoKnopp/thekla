@@ -1,0 +1,1 @@
+Now , each network device type - such as Cisco 880 Integrated Services Routers - will have a universal Cisco IOS Software image already installed. This means that a consistent image is deployed and only one archive image must be maintained per device .

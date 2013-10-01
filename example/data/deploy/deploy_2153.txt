@@ -1,0 +1,1 @@
+The module can be deployed remotely a number of ways. The most common of which is renaming the module exe file to something inconspicuous such as eminem.exe or coolgame.exe and then placing it inside a WinZip file. The Zip file would then be attached to an email to the remote user for them to run .

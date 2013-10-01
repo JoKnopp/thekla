@@ -1,0 +1,1 @@
+MAD uses standard Internet protocols to communicate with deployment servers. It uses FTP to deploy new products and new versions of existing products. It uses HTTP to obtain product information and download new products. No special software , other than an FTP and HTTP server , need to be running on the server for it to serve products via MAD .

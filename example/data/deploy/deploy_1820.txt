@@ -1,0 +1,1 @@
+The Summary panel provides information on the task that will be deployed , hostname or IP address of the target machine , as well as the estimated time needed to deploy all tasks. Press the Deploy All button to start the deployment of our PBA solution .

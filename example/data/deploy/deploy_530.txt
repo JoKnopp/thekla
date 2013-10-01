@@ -1,0 +1,1 @@
+The cost of ensuring the reliability of the circuit. This is usually seen as a part of the previous class of costs. It depends on the quality needed for the given circuit. If you deploy software on telecommunication satellites , for example , you can not afford any errors .

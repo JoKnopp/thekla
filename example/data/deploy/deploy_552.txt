@@ -1,0 +1,1 @@
+It would be very rare to see a company that small automating software installs through AD or something like SMS. The only way I could see that being the case is if their IT consulting firm used it to deploy packages , where they can just copy packages from customer to customer .

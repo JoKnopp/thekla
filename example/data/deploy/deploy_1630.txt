@@ -1,0 +1,1 @@
+To address these issues , several methods will be described below on how to effectively deploy your software. We will first discuss the methods of creating a deployment image. Once this deployment image has been created , we will cover the three methods for deploying this image to your test systems which are :

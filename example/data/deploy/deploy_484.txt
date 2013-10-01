@@ -1,0 +1,1 @@
+You may encounter problems when using Group Policy to deploy software. This lesson explains how to identify solutions to common problems that are associated with software deployment .

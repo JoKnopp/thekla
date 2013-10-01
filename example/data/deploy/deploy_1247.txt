@@ -1,0 +1,1 @@
+specifies the XML deployment plan filespec containing deployment details. Typically , both a module and a plan are specified. If the module contains a plan or if a default plan can be used , the plan can be omitted. However , if a plan is specified , it overrides any other plans. If the plan references an already deployed module , the module is omitted .

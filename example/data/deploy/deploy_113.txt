@@ -1,0 +1,1 @@
+IT security professionals have an almost equal preference for deploying open source or commercial software , according to research by security firm Barracuda Networks. A survey revealed that 53 percent of security managers would deploy open source software , compared to 47 percent who would deploy commercial software in their organisations for similar functionality .

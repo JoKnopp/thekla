@@ -1,0 +1,1 @@
+NOTE : You can deploy published applications only to user objects , not computers. It makes a lot of sense since , after all , what are the odds that your workstation will decide of its own volition that it needs to install Microsoft Word one day ?

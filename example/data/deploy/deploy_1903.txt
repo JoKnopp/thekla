@@ -1,0 +1,1 @@
+We use xSQL Software to manage and deploy our software. Before xSQL , deploying new versions was cumbersome and time consuming. Now it is a breeze. We couldn ' t operate without it .

@@ -1,0 +1,1 @@
+When an application is deployed by using the .zap file , the contents of the .zap file will be parsed , and the application and its associated file extensions will be added to Active Directory .

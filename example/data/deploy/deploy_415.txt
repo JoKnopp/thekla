@@ -1,0 +1,1 @@
+This secure IM server is fast to deploy and easy to use , it offers a set of corporate features and provides full IM logging , user grouping , search , printing and directory support. You can easily unite users from all your offices to one IM workspace .

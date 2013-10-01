@@ -1,0 +1,1 @@
+JustStyle CSS Editor is full-featured yet easy-to-use software for webmasters. It is a specialized style sheets development environment , featuring everything you need to develop and deploy cascade style sheets .

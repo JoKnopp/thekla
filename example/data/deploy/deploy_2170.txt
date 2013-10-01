@@ -1,0 +1,1 @@
+The most important advantage of using software installation and maintenance technology is that you can manage and deploy software from a central location. By working with Windows Installer package files , you can manage most software deployment and management tasks through the use of Group Policy .

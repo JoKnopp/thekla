@@ -1,0 +1,1 @@
+This Systems Deployment template documents core activities that are necessary to effectively deploy the software. Is the document upon which the assessment , planning , and scheduling of deployment activities will be based .

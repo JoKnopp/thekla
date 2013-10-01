@@ -1,0 +1,1 @@
+Patch deployment is a lot easier because of the new interface , and the patch management node is very flexible , allowing you to select specific patches for specific computers. Being able to deploy custom software , such as virus updates , is also handy .

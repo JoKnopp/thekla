@@ -1,0 +1,1 @@
+Prism Deploy distributes software to every Windows computer in your organization including Windows Vista systems. In fact , you can deploy software like Office 2007 up to five times faster than native installs using Prism Deploy and a Prism Deploy Package .

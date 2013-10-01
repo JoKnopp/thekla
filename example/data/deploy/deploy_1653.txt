@@ -1,0 +1,1 @@
+Many in the software engineering world considers build , package , and deploy the core areas of Configuration Management ( CM ) . To highlight this , many CM jobs are titled Build Engineer or Release Engineer with responsibilities that focus on the tasks of building , packaging , and deploying releases .

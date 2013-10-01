@@ -1,0 +1,1 @@
+We generally deploy software through Group Policy when three or more computers use it , since it 's very easy to create a new package ( if you already have a network share etc. setup , then you can literally do it in 2 minutes ) .

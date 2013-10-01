@@ -1,0 +1,1 @@
+2.1.2 The common base image is deployed the week prior to the start of each semester. Requests for software to be included in the common base image must be received by Learning Environment Services :

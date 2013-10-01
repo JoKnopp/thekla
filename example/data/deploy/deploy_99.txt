@@ -1,0 +1,1 @@
+The Software Settings area of group policy is where the publishing or assigning options are set. When an application is deployed by group policy , the first option that must be chosen is whether the application will be published or assigned .

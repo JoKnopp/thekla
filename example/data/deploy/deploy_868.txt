@@ -1,0 +1,1 @@
+After you have created a VSA file , in order to deploy it , you must be able to access it from your Notification Server. You can copy it to either your Notification Server , to another network share that you can access from your Notification Server , or to a Web server .

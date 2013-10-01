@@ -1,0 +1,1 @@
+4. The method of claim 2 wherein the one or more advanced certification tests include specifying how the software solution is to deploy within the operating environment .

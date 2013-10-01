@@ -1,0 +1,1 @@
+Fix everyone 's problem. While you can remotely deploy to a single PC or server on your network , Admin Arsenal is designed to let you deploy to one , some , many or all machines on your network. This selection process can be static ( enumerated workstations in say Accounting ) or dynamic ( all servers running a given application ) .

@@ -1,0 +1,1 @@
+I never had any issues with deployment- however , I use 'deploy selection ' instead of 'deploy solution'. Selection deploys the current project and skips uploading any unbound items- which is fine by me .

@@ -1,0 +1,1 @@
+Special Operations Software 's Specops Deploy 3.2 software is a Group Policy-based tool that deploys and distributes software to the Windows enterprise .

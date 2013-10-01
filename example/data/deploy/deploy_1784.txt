@@ -1,0 +1,1 @@
+Even if the application that you want to deploy does n't include a Windows Installer package , you are n't completely out of luck. It 's possible to make your own MSI file for an existing application .

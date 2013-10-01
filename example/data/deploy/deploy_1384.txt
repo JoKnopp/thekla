@@ -1,0 +1,1 @@
+There are several OS platforms for software applications ( Windows , Unix , IBM iSeries/zSeries , and so on ) . A successful software auto-deployment framework must work across OS platforms , with interfaces for different operating systems. Users should be able to deploy software on different operating systems using the framework .

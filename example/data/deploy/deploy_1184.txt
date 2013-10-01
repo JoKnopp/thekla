@@ -1,0 +1,1 @@
+While this practice made it relatively easy to deploy and begin using the Cisco product , it had implications for tracking hardware and software systems , adding service features , updating and upgrading images , and transferring licenses. Customers increasingly request simpler ways to manage these tasks .

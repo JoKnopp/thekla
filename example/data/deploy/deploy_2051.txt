@@ -1,0 +1,1 @@
+Enter SAMLite , a solution developed to take away the pain of managing software , in an easy to deploy and easy to administer manner. Developed in 1999 , the objective of SAMLite was to give organizations an alternative to tedious physical auditing methods , and expensive and complex software methods .

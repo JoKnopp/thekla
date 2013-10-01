@@ -1,0 +1,1 @@
+Simply save database changes from SQL Server Management Studio as scripts and this utility enables automatic version upgrades. SSW SQL Deploy uses SQL Server or SQL Server Express and is designed for Winforms , Webforms , VB , ASP and Access applications ( and more ) , SSW SQL Deploy means you never have to worry about your client 's data when deploying applications again !

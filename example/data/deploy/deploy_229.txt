@@ -1,0 +1,1 @@
+Automatically deploy ActiveX objects. In order to appear in graphic displays , ActiveX objects must be installed on the Active Display Station client computer. Using CAB files , the server can deploy ActiveX components to client automatically when they need them without manual intervention

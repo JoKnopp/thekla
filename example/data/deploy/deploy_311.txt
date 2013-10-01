@@ -1,0 +1,1 @@
+Once the software has been deployed , you will likely need to open TCP Port 58723 on any and all computers that are using OpcSystems .NET software and components .

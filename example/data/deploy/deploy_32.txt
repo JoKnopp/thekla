@@ -1,0 +1,1 @@
+3 ) you can deploy the software using a Group Policy Object ( GPO ) which can be assigned to users and computers and/or published to users. .MSIs work better with GPOs , but you can use .exe if you encapsulate it with a .zap file .

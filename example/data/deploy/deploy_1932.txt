@@ -1,0 +1,1 @@
+Acronis Snap Deploy 1.0. Complete system deployment solution using disk imaging technology - software deployment , PC configuration management , windows migration , deploying system image , standard configuration

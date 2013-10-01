@@ -1,0 +1,1 @@
+Congratulations ! You have successfully packaged and deployed a complete solution , made up of WebSphere Application Server - Express , HTTP Server , DB2 Express and an EJB application .

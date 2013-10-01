@@ -1,0 +1,1 @@
+Karvonite is a FREE persistence framework for the .NET Framework 2 and it focuses on the manipulation and persistence of .NET objects. This technology provides a new direction for how small to midsize applications can store and deploy data. Karvonite

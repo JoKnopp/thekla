@@ -1,0 +1,1 @@
+The single most effective way to influence any decision to deploy free software is to prepare a cost justification. When you hand your boss a spreadsheet showing the cost savings gained , they will consider your migration recommendation more seriously. Fortunately , this doesn ' t have to be complicated .

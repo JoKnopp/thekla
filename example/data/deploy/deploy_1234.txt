@@ -1,0 +1,1 @@
+You are required to provide the hostname or IP address of the target server where PBASolution and middleware components will be deployed. In our case , we will be deploying the PBA solution on the same computer on which we built it , so get the hostname of your machine by typing hostname in a Windows command prompt .

@@ -1,0 +1,1 @@
+Fully compatible with Acronis Snap Deploy 2.0 and other Acronis products - Acronis Snap Deploy 3 for Servers is capable to deploy images created with Acronis Snap Deploy 2.0 and Acronis True Image Echo .

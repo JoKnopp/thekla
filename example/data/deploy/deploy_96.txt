@@ -1,0 +1,1 @@
+Sorry I wasn ' t able to help , but glad you found your answer. Depending on your infrastructure , it might be worth it to go ahead and set up some global security groups in your AD to assist you in the future in deploying software .

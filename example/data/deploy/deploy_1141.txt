@@ -1,0 +1,1 @@
+Scenario 6 : Deploy an applet in Windows and Mac OS. In Windows environments that have plugin2 installed , deploy the applet using JNLP. Otherwise , generate an &lt; applet &gt; tag to deploy the applet. The applet requires JRE 5 or later .

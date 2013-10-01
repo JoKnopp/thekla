@@ -1,0 +1,1 @@
+SurveilStar Agent should be deployed to computers that are required to be monitored and controlled. The Agent can install in silence mode and run in stealth mode .

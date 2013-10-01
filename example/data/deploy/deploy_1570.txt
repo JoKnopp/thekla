@@ -1,0 +1,1 @@
+I thought I could use the deploycmd.exe , run it on LAN B server to deploy to PC1 , 2 , 3 , etc. But no joy , as the executable has many undocumented dependancies .

@@ -1,0 +1,1 @@
+Another nice feature that has been added with the subscription for DB2 Express-C is the ability to use it in a High Availaiblity or Disaster Recovery environement. IBM has added HADR support when you buy the subscription. You simply buy the subscription for the two servers and you can deploy HADR with your Express-C version ( see these other posts on HADR ) .

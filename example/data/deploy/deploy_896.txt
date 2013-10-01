@@ -1,0 +1,1 @@
+Create a script that uses Java Web Start technology to deploy the applet if plugin2 is installed , or that creates an &lt; applet &gt; tag to deploy the applet if plugin2 is not installed. Note that plugin2 is not currently available for Mac environments , so in those environments , the applet is deployed using an &lt; applet &gt; tag. Here is what that script might look like :

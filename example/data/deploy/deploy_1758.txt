@@ -1,0 +1,1 @@
+Select the collection or individual computers in Admin Arsenal to which you wish to deploy Firefox. Drag the .EXE file from Windows Explorer onto the selection or click the Deploy tool .

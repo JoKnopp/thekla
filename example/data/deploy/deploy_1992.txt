@@ -1,0 +1,1 @@
+Note : the Main License File must be deployed on the client machine. It is not supported to deploy the Main License File ( or the application itself ) to any other machine through either a UNC path or a mapped drive .

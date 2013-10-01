@@ -1,0 +1,1 @@
+The framework should be able to remotely deploy software , and to remotely control the deployment process. All software deployment should have the ability to be initiated by one host machine. An IT department can reduce effort by remotely deploying software .

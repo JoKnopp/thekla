@@ -1,0 +1,1 @@
+The lower the cost of adoption , the faster we get to critical mass. We are now at the point where individual communities can deploy DNSSEC at a reasonable cost , derive significant benefits , and start to propel us towards that critical mass point. Here is why :

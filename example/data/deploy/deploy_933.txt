@@ -1,0 +1,1 @@
+Use the redeploy command to stop , replace and restart a module that has been deployed before. The redeploy command has the following syntax :

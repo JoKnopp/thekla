@@ -1,0 +1,1 @@
+Software developers must understand the ICU services to design and deploy successful software releases. The services can save ICU users time in dealing with the kinds of problems that typically arise during critical stages of the software life cycle .

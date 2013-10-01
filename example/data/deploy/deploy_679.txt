@@ -1,0 +1,1 @@
+The new software , called the IBM Tivoli Change and Configuration Management Database , or CCMDB , along with three new IBM Tivoli Process Managers , will be available on June 30 , said Mike McCarthy , director of strategy at IBM Tivoli. The new software is used for managing storage devices , addressing IT failures and deploying new software releases and patches , he said .

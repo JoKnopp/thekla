@@ -1,0 +1,1 @@
+For your users to deploy your web application they will just need to double click the MSI file. This will produce something similar to figure 6 :

@@ -1,0 +1,1 @@
+Open the GPO that is used to deploy the application. In our example , the GPO would be found in the organizational unit for a department .

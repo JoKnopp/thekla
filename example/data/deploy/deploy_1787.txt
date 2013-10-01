@@ -1,0 +1,1 @@
+Some quick notes on how we deploy DisplayLink drivers internally here at DisplayLink. Due to our unique requirements , we don ' t deploy our software via GPSI , as our Developers need to use bleeding-edge drivers , rather than the publicly released ones !

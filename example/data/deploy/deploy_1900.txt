@@ -1,0 +1,1 @@
+If you use wuwinstaller.exe to deploy the Software Update Wizard then the only other installation responsibility you have is to install the Software Update Wizard licence file , WebUpdateSvc4.lic , into the same folder as your application. The developer installer will have installed WebUpdateSvc4.lic into the 'SoftwareUpdateWizard ' folder within your 'Program Files ' .

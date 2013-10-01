@@ -1,0 +1,1 @@
+Zone signing costs are down. Commercial products are now available that automate key management , key rollover and zone signing , greatly decreasing the cost and risk associated with manual key management and zone signing. This makes it possible for organizations to deploy DNSSEC in days or weeks rather than months or years .

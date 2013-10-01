@@ -1,0 +1,1 @@
+Build MSIs for legacy software , or package them with Prism Deploy. Prism can package and deploy anything , from entire application suites to printer installs , simple registry updates , service packs and more .

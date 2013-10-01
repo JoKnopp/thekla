@@ -1,0 +1,1 @@
+Completely free thin client solution for Windows. Converts PCs to thin clients. Allows you to customize and deploy clients completely from within a Windows environment. Supports Thinstation , RDP and booting from network ( PXE ) , floppy , CD or flash .

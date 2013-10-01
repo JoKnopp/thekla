@@ -1,0 +1,1 @@
+Businesses today face increasing challenges when it comes to configuring and deploying new machines in a distributed , corporate environment. Having a deployment solution in place that enables businesses to use a standard configuration for a new PC or server can decrease support expenses significantly .

@@ -1,0 +1,1 @@
+Developers are able to add 'update over the web ' functionality to your software with a single line of code. WodAppUpdate allows developers an easy way to deploy their updates on the host site and let users download them in just a few secounds .

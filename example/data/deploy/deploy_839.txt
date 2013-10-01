@@ -1,0 +1,1 @@
+( TOP 500 REVIEWER ) ( REAL NAME ) Based on the descriptions I read about this book , I was really looking forward to learning a lot of solid patterns or practices that would help in designing and deploying solid software. I also was looking forward to learning concrete techniques that could be applied to ensure smooth , frequent deployments .

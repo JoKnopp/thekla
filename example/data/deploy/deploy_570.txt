@@ -1,0 +1,1 @@
+Be sure that you deploy the Main License File to the appropriate directory. Although you can choose virtually any directory , for simplicity we recommend that you deploy it to the same directory as the host application executable. ( See the StartUp function in the ClientProtector Reference for information about relative vs. absolute paths of the Main License File . )

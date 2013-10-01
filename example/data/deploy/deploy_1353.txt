@@ -1,0 +1,1 @@
+Nothing is wrong - this just means you have not deployed Realtime-Spy on a remote PC to monitor. Once you start monitoring a PC your logs and web interface will appear in your webspace ! Please wait 15-20minutes from when the file is first executed for the first sets of logs to appear .

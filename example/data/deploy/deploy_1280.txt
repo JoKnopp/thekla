@@ -1,0 +1,1 @@
+In order to automate the deployment of software to your computers , NI recommends using an enterprise software management tool ( e.g. Microsoft SMS ) . The following instructions explain how to use Microsoft SMS 2003 or SCCM 2007 to deploy custom batch files :

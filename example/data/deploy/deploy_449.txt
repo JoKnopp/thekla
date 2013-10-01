@@ -1,0 +1,1 @@
+Peering out into the landscape of software development , it ' s clear that there is no magic bullet in designing , developing , and deploying secure software. Various actors , factors , and perspectives need to be considered. Software assurance has a kaleidoscope of perspectives that need to be factored in the secure software lifecycle .

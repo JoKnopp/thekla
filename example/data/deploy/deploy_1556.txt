@@ -1,0 +1,1 @@
+Protects PHP applications for secure deployment , without exposing the source code. PHP Encoder fully encode and deploy for both PHP4 and PHP5. PHP code that is encoded by this application is protected against unauthorized modification and theft. Encoding also prevents hackers from looking into your code to find security weaknesses .

@@ -1,0 +1,1 @@
+Now that you have created your module you will need to install ( deploy ) it onto your remote computer. The information in this section will assist you in deploying to your remote PC. For help on installing onto your local PC ( a PC you can walk up to ) then please see this section .

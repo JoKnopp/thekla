@@ -1,0 +1,1 @@
+When you first deploy an application , you can select from a number of deployment options. After you have deployed the application , you can modify any of these options .

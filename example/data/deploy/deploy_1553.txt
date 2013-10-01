@@ -1,0 +1,1 @@
+What sets JUNOS software apart from other network operating systems is the way it is built - one operating system enhanced through one release and developed from one modular architecture. Service providers , businesses , and public sector organisations that deploy JUNOS software benefit from its three key advantages :

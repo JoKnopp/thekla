@@ -1,0 +1,1 @@
+Using Group Policy to deploy software , allows you to configure numerous settings and options to control the manner in which software packages are deployed and administered within your organization. If you want to perform one of the administrative tasks listed below , use the configuration steps detailed after the listed administrative task :

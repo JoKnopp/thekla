@@ -1,0 +1,1 @@
+Remote monitoring software will allow you to remotely install and deploy the software on any computer without any user interaction. The remote software will automatically install and begin monitoring .

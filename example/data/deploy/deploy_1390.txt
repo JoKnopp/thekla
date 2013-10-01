@@ -1,0 +1,1 @@
+Welcome screen text : This solution will deploy Personal Budget Analysis ( PBA ) V1.0 and three IBM middleware components which consist of : - WebSphere Application Server - Express Edition V6.0 - DB2 Universal Database Express Edition V8.2 - IBM HTTP Server V6.0 .

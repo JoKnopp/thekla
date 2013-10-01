@@ -1,0 +1,1 @@
+The Deploy task uses a Xml Deploy Script that contains the information of what Msi ( s ) to deploy , additional tasks such as starting and stopping the service , and specifies the target machines. The following steps walks you through editing this file .

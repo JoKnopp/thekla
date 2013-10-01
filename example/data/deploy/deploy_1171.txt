@@ -1,0 +1,1 @@
+We developed a custom rich client product for Tennis Australia which was installed in many locations around Australia. Every time a new version was deployed ( which was too often : - ) we had to manually dial in to run some SQL scripts - SQL Deploy was developed and completely removed this deployment problem .

@@ -1,0 +1,1 @@
+Open the GPO that originally deployed the application. In software installation and maintenance , right-click the package file name , then point to All Tasks , and then click Redeploy Application. In the confirmation dialog box , click Yes .

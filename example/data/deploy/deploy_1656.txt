@@ -1,0 +1,1 @@
+Assign transactional documents to processes and workflow-enable applications with Skelta BPM.NET. Leverage the benefits of SharePoint Accelerator capabilities for quickly deploying simple to complex workflows without any significant IT investments .

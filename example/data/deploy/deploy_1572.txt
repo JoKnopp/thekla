@@ -1,0 +1,1 @@
+Prior to final deployment , you will be notified that the application is ready for testing. At that time , you will be notified about where to go to test the software. Software can not be deployed until you have certified that it is working properly .

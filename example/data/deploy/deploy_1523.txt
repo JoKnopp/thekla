@@ -1,0 +1,1 @@
+You can see general information about the package , the version number , the language of the file and the platform that is supported by that file. You can change the Name of the package by just typing in a new name. The name given here will be displayed at the screen if you deploy the sofware via computer assignment. The user will be given a message which says Installing package

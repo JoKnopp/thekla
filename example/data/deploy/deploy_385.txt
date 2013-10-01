@@ -1,0 +1,1 @@
+Search a Package to immediately locate and change all embedded path references in one easy step. Quickly change a hard-coded Path reference within a Package to a variable so the Package can be deployed to diverse Computers .

@@ -1,0 +1,1 @@
+WordFusion allows you to create Forms to collect , store and reuse information. Anyone can develop and deploy dynamic forms in minutes , and because Forms are saved in industry standard XML format they are easy to share by simply copying a file

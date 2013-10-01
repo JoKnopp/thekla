@@ -1,0 +1,1 @@
+Early 90 's saw FourGen produce an Enterprise version starting with FourGen Version 4.0. The target customers were mid-market and large corporations. GL Flexkeys and other new functionality like multicurrency , EDI , etc. was developed for enterprises to deploy the software .

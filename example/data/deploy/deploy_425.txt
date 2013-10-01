@@ -1,0 +1,1 @@
+Enter the host name or IP address to deploy the software to. If you want to use a set of credentials other than those that you are currently logged in as , click the Use specific credentials checkbox and enter the login information. Click OK .

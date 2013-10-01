@@ -1,0 +1,1 @@
+Deploy MSIs from TFS builds using these custom MSBuild tasks. This collection of tasks includes everything you need to deploy cilent apps to multiple PCs and windows services to Servers. Also includes a build notification task for controlling Lava Lamps/Street lights via X10 .

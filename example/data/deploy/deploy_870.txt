@@ -1,0 +1,1 @@
+SCE will repackage your installation into one that will function as an automated installation. Once complete , you 'll be given options for how and when you want to deploy the software. Select the computer groups to approve for installation , as well as the deadline for that installation to occur .

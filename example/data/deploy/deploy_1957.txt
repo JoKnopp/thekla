@@ -1,0 +1,1 @@
+Doors locked , gated communities , guard dogs are all testaments to a physically insecure world. Our digital world is every bit as vulnerable , so it ' s critical to design , develop , and deploy secure software. Security is a process; from the original requirements specification to final disposal , which is woven into the SDLC and this paper can show you how .

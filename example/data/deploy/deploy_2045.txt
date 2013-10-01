@@ -1,0 +1,1 @@
+the recommended way is to deploy software to COMPUTERS otherwise things can get messy ( think one user using multiple computers ... )

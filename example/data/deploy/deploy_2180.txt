@@ -1,0 +1,1 @@
+You can sum up the most striking feature of browser-based Web applications in a single word : Reach ! You can build a single application and deploy it to a server , and voila , you have an application that everyone with access to the Internet can reach. This spans organizations , countries , and continents , and even the larger gaps such as operating systems .

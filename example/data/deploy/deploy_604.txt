@@ -1,0 +1,1 @@
+After Computer Recording Agent is deployed on the user 's computer , you can verify that the Computer Recording Agent is successfully deployed by going to the Current Deployments screen. The Current Deployments screen is available by going to Configure &gt; Deploy and clicking the Current Deployments tab .

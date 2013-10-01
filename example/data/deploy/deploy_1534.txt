@@ -1,0 +1,1 @@
+If version 1.0 has been installed , existing shortcuts will still start version 1.0. The next time the user logs on , the user can install version 1.0 or 2.0 from Add/Remove Programs. Document invocation will only install version 2.0 if the GPO that is deploying version 2.0 has a higher order of precedence than version 1.0 .

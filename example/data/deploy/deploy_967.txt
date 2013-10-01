@@ -1,0 +1,1 @@
+Performance and Scalability Requirements : SaaS firms deploy their software on their own hardware. Poor performance exponentially increases the operational costs and in worst situations becomes a death bed for the company. QA teams have to validate the principles of multi-tenancy and test each release for its scalability .

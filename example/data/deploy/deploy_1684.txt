@@ -1,0 +1,1 @@
+[ 0046 ] At process block 410 , the plan script to deploy the software components to the set of target computing devices is executed. The plan script can be executed by the interpretive module 306 , which can in turn invoke one or more appliers that perform the installation and deployment of software components and data .

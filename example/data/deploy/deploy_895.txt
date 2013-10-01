@@ -1,0 +1,1 @@
+You deploy both Microsoft Outlook Express and Microsoft Outlook 2002 on all the computers. The users in the Sales organizational unit must use Outlook 2002 while all the others have to use Outlook Express to read the .eml files .

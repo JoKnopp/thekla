@@ -1,0 +1,1 @@
+A variation on this theme is thin clients or diskless workstations. Thin clients are computers without disk drives that simply boot from a file server over a network. The entire operating system is sent over the network from the server to the thin client. It 's easy to deploy new software to these systems , since it can all be done from the boot server .

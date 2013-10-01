@@ -1,0 +1,1 @@
+After creating your survey , it 's time to deploy it. Deployment is the process of creating a list of contacts who will be invited to participate , then sending those participants an invitation email. The invitation email contains a unique clickable link that logs the respondent into your survey so that they can begin answering your questions .

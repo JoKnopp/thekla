@@ -1,0 +1,1 @@
+Following the instructions from the Adobe Customization Wizard post , you can deploy 9.1 as a standard package through Group Policy using the .msi. If you visit the update page for Adobe 9.1.2 , you ' ll see that it can apply to 9.1 or 9.1.1. Since we have 9.1 deployed , this one be a problem and we ' ll just need to apply the .msp patches for 9.1.2 .

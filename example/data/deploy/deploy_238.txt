@@ -1,0 +1,1 @@
+Visual Build Professional enables software developers to create an automated , repeatable process for building and deploying quality software. It provides built-in support for Microsoft Visual Studio , Borland Developer Studio , Delphi , JBuilder and more .

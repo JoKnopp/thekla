@@ -1,0 +1,1 @@
+The Carthaginian ambush can not be deployed until a non-skirmish Roman infantry unit has engaged a non-skirmish Carthaginian infantry unit. At the start of each subsequent turn , before the movement phase , the ambush is sprung on a roll of 4+ on a D6

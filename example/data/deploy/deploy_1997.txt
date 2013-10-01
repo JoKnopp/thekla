@@ -1,0 +1,1 @@
+Our K12Ambit product is offered as a hosted service , or SaaS ( Software as a Service ) , deployed on our own high-availability network and servers farm and managed by our experienced engineering and operations team. As an alternative , the client may license the software to operate on their own servers .

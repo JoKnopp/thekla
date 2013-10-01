@@ -1,0 +1,1 @@
+We recommend that you use wuwinstaller.exe to deploy the Software Update Wizard because it removes your responsibility for installing and starting the service and ensuring that uninstalling your application does not interfere with other applications which depend on the Software Update Wizard for automatic updates. It adds only 275Kb of overhead to your installer .

@@ -1,0 +1,1 @@
+When I talk about deploying software over the Web , of course , I am not talking about making a software package available for download , but rather , making the actual application available to use in realtime over the Web. The actual software runs , for the most part , on the server and users access it through a web browser remotely .
